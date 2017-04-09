@@ -1,2 +1,0 @@
-# Botica
-Desarrollo FrontEnd
